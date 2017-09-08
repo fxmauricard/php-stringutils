@@ -1,5 +1,8 @@
 <?php
-namespace Fxmauricard;
+
+namespace Fxmauricard\Tests;
+
+use \Fxmauricard\StringUtils;
 
 /**
  * Unit tests for the StringUtils class.

@@ -1,7 +1,23 @@
 {
     "name": "fxmauricard/string-utils",
+    "type": "library",
+
     "description": "A utility class for manipulating strings in PHP.",
+
+    "authors": [
+        {
+            "name": "Francois-Xavier MAURICARD",
+            "role": "Developer"
+        }
+    ],
+
     "require": {
-        "php": "^5.3.3 || ^7.0"
+        "php": ">=5.3.3"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "Fxmauricard\\": "src/"
+        }
     }
 }
