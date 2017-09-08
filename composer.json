@@ -1,7 +1,9 @@
 {
     "name": "fxmauricard/string-utils",
     "type": "library",
-
+    "license": [
+        "GPL-3.0+"
+     ],
     "description": "A utility class for manipulating strings in PHP.",
 
     "authors": [

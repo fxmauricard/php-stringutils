@@ -2,7 +2,7 @@
 
 namespace Fxmauricard\Tests;
 
-use \Fxmauricard\StringUtils;
+use Fxmauricard\StringUtils;
 
 /**
  * Unit tests for the StringUtils class.
