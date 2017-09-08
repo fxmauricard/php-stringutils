@@ -1,0 +1,7 @@
+{
+    "name": "fxmauricard/string-utils",
+    "description": "A utility class for manipulating strings in PHP.",
+    "require": {
+        "php": "^5.3.3 || ^7.0"
+    }
+}
